@@ -1,0 +1,15 @@
+D:\udamy cource\skinet_2\skinet2\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\udamy cource\skinet_2\skinet2\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\udamy cource\skinet_2\skinet2\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\udamy cource\skinet_2\skinet2\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\udamy cource\skinet_2\skinet2\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
