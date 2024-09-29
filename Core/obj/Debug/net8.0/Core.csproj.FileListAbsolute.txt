@@ -9,3 +9,4 @@ D:\udamy cource\skinet_2\skinet2\Core\obj\Debug\net8.0\Core.dll
 D:\udamy cource\skinet_2\skinet2\Core\obj\Debug\net8.0\refint\Core.dll
 D:\udamy cource\skinet_2\skinet2\Core\obj\Debug\net8.0\Core.pdb
 D:\udamy cource\skinet_2\skinet2\Core\obj\Debug\net8.0\ref\Core.dll
+D:\udamy cource\skinet_2\skinet2\Core\obj\Debug\net8.0\Core.sourcelink.json

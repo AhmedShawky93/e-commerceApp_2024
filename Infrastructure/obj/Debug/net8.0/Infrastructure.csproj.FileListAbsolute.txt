@@ -13,3 +13,4 @@ D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.
 D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\udamy cource\skinet_2\skinet2\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

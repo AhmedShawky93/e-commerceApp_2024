@@ -134,3 +134,4 @@ D:\udamy cource\skinet_2\skinet2\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Sy
 D:\udamy cource\skinet_2\skinet2\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\udamy cource\skinet_2\skinet2\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\udamy cource\skinet_2\skinet2\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\udamy cource\skinet_2\skinet2\API\obj\Debug\net8.0\API.sourcelink.json
